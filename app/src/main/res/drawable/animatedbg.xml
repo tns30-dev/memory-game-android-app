@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:id="@+id/selected"
+    android:oneshot="false"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:drawable="@drawable/anibg_1" android:duration="50" />
+        <item android:drawable="@drawable/anibg_2" android:duration="50" />
+        <item android:drawable="@drawable/anibg_3" android:duration="50" />
+        <item android:drawable="@drawable/anibg_4" android:duration="50" />
+        <item android:drawable="@drawable/anibg_5" android:duration="50" />
+        <item android:drawable="@drawable/anibg_6" android:duration="50" />
+        <item android:drawable="@drawable/anibg_7" android:duration="50" />
+        <item android:drawable="@drawable/anibg_8" android:duration="50" />
+        <item android:drawable="@drawable/anibg_9" android:duration="50" />
+        <item android:drawable="@drawable/anibg_10" android:duration="50" />
+        <item android:drawable="@drawable/anibg_11" android:duration="50" />
+        <item android:drawable="@drawable/anibg_12" android:duration="50" />
+        <item android:drawable="@drawable/anibg_13" android:duration="50" />
+        <item android:drawable="@drawable/anibg_14" android:duration="50" />
+        <item android:drawable="@drawable/anibg_15" android:duration="50" />
+        <item android:drawable="@drawable/anibg_16" android:duration="50" />
+        <item android:drawable="@drawable/anibg_17" android:duration="50" />
+        <item android:drawable="@drawable/anibg_18" android:duration="50" />
+        <item android:drawable="@drawable/anibg_19" android:duration="50" />
+        <item android:drawable="@drawable/anibg_20" android:duration="50" />
+        <item android:drawable="@drawable/anibg_21" android:duration="50" />
+        <item android:drawable="@drawable/anibg_22" android:duration="50" />
+        <item android:drawable="@drawable/anibg_23" android:duration="50" />
+        <item android:drawable="@drawable/anibg_24" android:duration="50" />
+        <item android:drawable="@drawable/anibg_25" android:duration="50" />
+        <item android:drawable="@drawable/anibg_26" android:duration="50" />
+        <item android:drawable="@drawable/anibg_27" android:duration="50" />
+        <item android:drawable="@drawable/anibg_28" android:duration="50" />
+        <item android:drawable="@drawable/anibg_29" android:duration="50" />
+
+    </animation-list>

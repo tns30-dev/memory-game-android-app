@@ -1,0 +1,39 @@
+# Android-specific
+*.apk
+*.dex
+*.class
+build/
+local.properties
+*.keystore
+
+# IDE-specific
+.idea/
+.vscode/
+*.iml
+
+# System files
+.DS_Store
+*.log
+
+# Gradle files
+.gradle/
+*.jar
+*.war
+*.ear
+
+# Cache files
+.cache/
+output.json
+
+# Test results
+*.xml
+
+# ProGuard
+proguard/
+proguard-rules.pro
+
+# Miscellaneous
+*.orig
+*.swp
+*.tmp
+Thumbs.db
